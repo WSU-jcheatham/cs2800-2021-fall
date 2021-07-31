@@ -7,82 +7,90 @@
 Welcome to CS 2800! This repository contains information about the class, setup
 instructions, and links to useful information.
 
-
 <!-- vim-markdown-toc GFM -->
 
-* [Git and GitHub](#git-and-github)
-	* [HTTPS](#https)
-	* [SSH](#ssh)
-* [Automated Tests](#automated-tests)
+* [Time and room](#time-and-room)
+* [Textbook](#textbook)
+* [Required software](#required-software)
+* [Assignments](#assignments)
+* [Exams](#exams)
+* [Cheating](#cheating)
+* [Grading](#grading)
 
 <!-- vim-markdown-toc -->
 
-## Git and GitHub
+## Time and room
 
-This course is going to make heavy use of GitHub. Every assignment will involve
-cloning a repository and pushing updates. You can use any git client to access
-GitHub, but we're going to focus on the standard git command line client.
+TR 18:30-19:50, Russ 339
 
-Git can access a remote repository using different protocols; the most common
-are HTTPS and SSH. HTTPS lets you connect to GitHub using your GitHub username
-and a personal access token. SSH lets you connect using an SSH key. HTTPS is
-useful when connecting from public machines, such as the ones in class. SSH is
-useful when connecting from a home machine because, once it’s properly setup,
-you don’t need to use your name and password when accessing GitHub.
+## Textbook
 
-### HTTPS
+There is no textbook for this course. Instead, we will be using freely available
+resources, primarily:
 
-To use HTTPS, you’ll need to setup a
-[personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-for your account. This is a token you must use instead of your password when
-accessing your accout from command line git. The only _requirement_ for the
-token is that it use the “repo” scope. It’s also a good idea to give the token
-an expiration date.
+- [MDN "Learn Web Development"](https://developer.mozilla.org/en-US/docs/Learn)
+- [GitHub Guides](https://guides.github.com)
 
-<p align="center">
-	<img alt="GitHub token setup" src="resources/token_setup.png" width="500" />
-</p>
+## Required software
 
-GitHub will show the token value right after it’s created. Make sure to save it
-somewhere as this is the only time it will be visible. Once you leave the page
-that shows the token value, GitHub won’t show it again. If you forget the token,
-you’ll need to create a new one. (This isn’t a significant problem, just a minor
-annoyance).
+Students will need
 
-Once you've created a token, you can use it as the password when cloning a
-repository:
+- A computer with a current Node LTS version installed (Node 12+)
+- A text or code editor (VS Code is a good free option)
+- A GitHub account
+- A git client (the git commandline tool, GitHub Desktop, Tower, etc.)
 
-<p align="center">
-	<img alt="CLI clone command" src="resources/cli_clone.png" width="80%" />
-</p>
+## Assignments
 
-### SSH
+There will be weekly assignments, due by 11:59pm Sunday evenings. The
+assignments will be related to an overall course project.
 
-To use SSH, you’ll need to have SSH installed on your machine, and you’ll need
-to
-[create an SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-and
-[add it to your GitHub account](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
-Once you’ve added the key, you can clone repos using their Git URL rather than
-HTTPS and Git will use the key to authenticate you rather than asking for a
-username and password. _This will only work on the machine where you created the
-SSH key._
+## Exams
 
-When you create an SSH key you may optionally protect it with a passphrase.
-Creating a key without a passphrase is convenient (because then git won’t ask
-you for a passphrase when cloning repos), but it means that anyone with access
-to the machine with your key will have access to your GitHub repositories.
+There will be two exams, a midterm and a final.
 
-## Automated Tests
+## Cheating
 
-All assignments will have automated tests. These may be run at any time by
-running `npm test` from a command prompt in the root of a cloned assignment
-repository. For example, if you cloned an assignment repository to an
-`assignment-1/` directory, change to that directory in a command prompt window
-and run `npm test`. These same tests also run when you open a pull request. If
-the automated tests pass, odds are good that your solution is correct!
+Cheating on assignments or exams will not be tolerated. What counts as cheating?
+At a basic level, cheating is turning in someone else's work as your own.
 
-Note that while passing the tests suggests that your solution is correct, it is
-not a guarantee that you will receive full credit. For example, if the
-instructor determines that your work was copied from another student or online
-source, you may lose some or all credit even if the tests pass.
+That doesn't mean you can't do research on the internet or ask other people for
+help. Getting help is good! However, turning in work that you didn't do, or that
+you don't understand, is not good.
+
+Examples of _acceptable_ use of external code:
+
+- You ask a friend for help with a part of your assignment, and they point out
+  mistakes in code you have written or suggest how to implement certain
+  features.
+- You find a piece of code on Stack Overflow that implements some part of your
+  assignment (e.g., sorting an array), and you write code for your assignment
+  based on this code.
+- You find a piece of code on Stack Overflow that implements some part of your
+  assignment (e.g., sorting an array), and you include this code in your
+  assignment with comments explaining how the code works and saying where it
+  came from.
+
+Examples of _unacceptable_ use of external code:
+
+- You ask a friend for help with your assignment, they give you their code, and
+  you turn that in, even if you cite the source.
+- You post an assignment on a site like Stack Overflow or Chegg, someone
+  answers, and you turn in that answer, even if you cite the source.
+- You find useful code on a site like Stack Overflow or Chegg, include that code
+  in your assignment, and turn it in with no descriptive comments and/or without
+  citing the source.
+- You find the answer to an assignment on the internet and turn that in, even if
+  you describe how it works and/or cite the source. (At least 50% of the work in
+  an assignment must be your own.)
+
+To summarize, legitimately getting help is fine. Getting the answer is not fine.
+
+If you are found to have cheated, you will get an automatic 0 on the exam or
+assignment for the first offense, and a failing grade in the course for the
+second offense.
+
+## Grading
+
+Assignments will be worth 60% of the overall course grade (6% each). Exams will
+be worth 40% (20% each).
