@@ -10,7 +10,7 @@ instructions, and links to useful information.
 CS 2800 will introduce students to client-side web development. Topics covered
 include HTML document structure and styling, JavaScript, React, and JavaScript
 unit testing. The course assumes that students have successfully completed an
-undergraduate programming course such as CS 1180.
+undergraduate programming course such as CS 1160.
 
 <!-- vim-markdown-toc GFM -->
 
@@ -26,7 +26,7 @@ undergraduate programming course such as CS 1180.
 
 ## Instructor
 
-Jason Cheatham
+Jason Cheatham (jason.cheatham@wright.edu)
 
 ## Time and room
 
@@ -35,8 +35,13 @@ The class meets Tuesdays and Thursdays from 6:30-7:50pm in Russ 339.
 Office hours are after class -- Tuesdays and Thursday from 7:50-8:50pm in
 Russ 339.
 
-Students may also attend lectures and take exames remotely through Collaborate.
+Students may also attend lectures and take exams remotely. Lectures will be
+broadcast through Collaborate, and exams will be administered through Pilot.
 Remote lecture and exam times are the same as in-class meeting times.
+
+Lecture recordings will be available, although students are highly encouraged to
+attend lectures at the time they are given to be able to ask questions. Remote
+exams will not require the use of LockDown.
 
 ## Textbook
 
@@ -55,7 +60,7 @@ Students will need
 - A text or code editor ([VS Code](https://code.visualstudio.com) is a good free
   option)
 - A [GitHub](https://github.com) account
-- A git client (the [git commandline tool](https://git-scm.com/downloads),
+- A git client (the [git command line tool](https://git-scm.com/downloads),
   [GitHub Desktop](https://desktop.github.com), etc.)
 
 ## Grading
