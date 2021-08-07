@@ -8,9 +8,9 @@ Welcome to CS 2800! This repository contains information about the class, setup
 instructions, and links to useful information.
 
 CS 2800 will introduce students to client-side web development. Topics covered
-include HTML document structure and styling, JavaScript, React, and JavaScript
-unit testing. The course assumes that students have successfully completed an
-undergraduate programming course such as CS 1160.
+include HTML document structure and styling, accessibility, JavaScript, React,
+and JavaScript unit testing. The course assumes that students have successfully
+completed an undergraduate programming course such as CS 1160.
 
 <!-- vim-markdown-toc GFM -->
 
@@ -46,10 +46,11 @@ exams will not require the use of LockDown.
 ## Textbook
 
 There is no textbook for this course. Instead, we will be using freely available
-resources, primarily:
+resources, including:
 
 - [MDN "Learn Web Development"](https://developer.mozilla.org/en-US/docs/Learn)
 - [GitHub Guides](https://guides.github.com)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
 
 ## Required software
 
@@ -65,8 +66,7 @@ Students will need
 
 ## Grading
 
-**Assignments**: There will be weekly assignments most weeks, due by 11:59pm
-Sunday evenings.
+**Assignments**: There will be weekly assignments most weeks.
 
 **Midterm exam**: There will be a midterm exam during week 7 of the course.
 
@@ -95,8 +95,8 @@ Sunday evenings.
 | 11       | React events, forms, and state management |
 | 12       | Testing                                   |
 
-Assignments will typically be due at 11:59pm on the Sunday after the assignment
-was made.
+Assignments will typically be made on Thursdays and will be due at 11:59pm on
+the following Tuesday.
 
 Both the lecture schedule and assignment due dates are subject to change. You
 are responsible for monitoring Pilot for notifications of any schedule changes.
