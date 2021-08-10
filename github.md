@@ -4,6 +4,7 @@
 
 * [HTTPS](#https)
 * [SSH](#ssh)
+* [Updating assignments](#updating-assignments)
 * [Automated Tests](#automated-tests)
 
 <!-- vim-markdown-toc -->
@@ -63,6 +64,20 @@ Creating a key without a passphrase is convenient (because then git won’t ask
 you for a passphrase when cloning repos), but it means that anyone with access
 to the machine with your key will have access to your GitHub repositories.
 
+## Updating assignments
+
+Occasionally an assignment may be updated after you have accepted it. If this
+happens, you will need to pull the update into your local assignment repository
+and merge it into your branch. To update your repository:
+
+1. If you're on a branch other than `main`, commit your current work and
+   checkout `main`.
+2. From the command line, run `git pull origin`. This will pull any updates into
+   your local clone of the repository.
+3. If you were working on a branch, check out your branch and run `git merge
+   main`. This will merge any changes in the main branch into your working
+   branch.
+
 ## Automated Tests
 
 All assignments will have automated tests. These may be run at any time by
@@ -76,4 +91,3 @@ Note that while passing the tests suggests that your solution is correct, it is
 not a guarantee that you will receive full credit. For example, if the
 instructor determines that your work was copied from another student or online
 source, you may lose some or all credit even if the tests pass.
-
