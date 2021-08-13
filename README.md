@@ -32,7 +32,7 @@ Jason Cheatham (jason.cheatham@wright.edu)
 
 The class meets Tuesdays and Thursdays from 6:30-7:50pm in Russ 339.
 
-Office hours are after class -- Tuesdays and Thursday from 7:50-8:50pm in
+Office hours are after class &mdash; Tuesdays and Thursday from 7:50-8:50pm in
 Russ 339.
 
 Students may also attend lectures and take exams remotely. Lectures will be
@@ -48,7 +48,7 @@ exams will not require the use of LockDown.
 There is no textbook for this course. Instead, we will be using freely available
 resources, including:
 
-- [MDN "Learn Web Development"](https://developer.mozilla.org/en-US/docs/Learn)
+- [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 - [GitHub Guides](https://guides.github.com)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 
@@ -91,12 +91,16 @@ assignments.
 | 4        | Accessibility                             |
 | 5        | Intro to JavaScript                       |
 | 6        | Functions, classes, standard library      |
-| 7        | DOM                                       |
-| 8        | Events and requests                       |
-| 9        | Async and forms                           |
-| 10       | Intro to React                            |
-| 11       | React events, forms, and state management |
-| 12       | Testing                                   |
+| 7        | Review; midterm exam                      |
+| 8        | DOM                                       |
+| 9        | Async and requests                        |
+| 10       | Events and forms                          |
+| 11       | Intro to React                            |
+| 12       | React events, forms                       |
+| 13       | React state management; unit testing      |
+| 14       | Unit testing                              |
+| 15       | Review                                    |
+| 16       | Final exam                                |
 
 Assignments will typically be made on Thursdays and will be due at 11:59pm on
 the following Tuesday.
