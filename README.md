@@ -16,6 +16,7 @@ completed an undergraduate programming course such as CS 1160.
 
 * [Instructor](#instructor)
 * [Time and room](#time-and-room)
+* [Masks](#masks)
 * [Textbook](#textbook)
 * [Required software](#required-software)
 * [Grading](#grading)
@@ -42,6 +43,20 @@ Remote lecture and exam times are the same as in-class meeting times.
 Lecture recordings will be available, although students are highly encouraged to
 attend lectures at the time they are given to be able to ask questions. Remote
 exams will not require the use of LockDown.
+
+## Masks
+
+The university has enacted a mask mandate for Fall 2021. Masks must be worn at
+all times in campus buildings, including during class. Any student attending
+class in-person must be wearing a mask at all times unless the student has
+obtained an official exemption _and_ notified the instructor of the exemption.
+Students not wishing to wear a mask may attend class remotely. If you forget
+your mask, you can get one from various locations on campus (Student Union front
+desk, Library, vending machines).
+
+Students who show up to in-person class without a mask will be asked to leave.
+If a student repeatedly refuses to wear a mask, they may be reported to Office
+of Student Conduct for further action.
 
 ## Textbook
 
@@ -83,24 +98,24 @@ assignments.
 
 ## Tentative schedule
 
-| **Week** | **Topic**                                 |
-| :------- | :---------------------------------------- |
-| 1        | Introduction                              |
-| 2        | HTML                                      |
-| 3        | CSS                                       |
-| 4        | Accessibility                             |
-| 5        | Intro to JavaScript                       |
-| 6        | Functions, classes, standard library      |
-| 7        | Review; midterm exam                      |
-| 8        | DOM                                       |
-| 9        | Async and requests                        |
-| 10       | Events and forms                          |
-| 11       | Intro to React                            |
-| 12       | React events, forms                       |
-| 13       | React state management; unit testing      |
-| 14       | Unit testing                              |
-| 15       | Review                                    |
-| 16       | Final exam                                |
+| **Week** | **Topic**                            |
+| :------- | :----------------------------------- |
+| 1        | Introduction                         |
+| 2        | HTML                                 |
+| 3        | CSS                                  |
+| 4        | Accessibility                        |
+| 5        | Intro to JavaScript                  |
+| 6        | Functions, classes, standard library |
+| 7        | Review; midterm exam                 |
+| 8        | DOM                                  |
+| 9        | Async and requests                   |
+| 10       | Events and forms                     |
+| 11       | Intro to React                       |
+| 12       | React events, forms                  |
+| 13       | React state management; unit testing |
+| 14       | Unit testing                         |
+| 15       | Review                               |
+| 16       | Final exam                           |
 
 Assignments will typically be made on Thursdays and will be due at 11:59pm on
 the following Tuesday.
