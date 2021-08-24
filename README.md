@@ -31,7 +31,7 @@ Jason Cheatham (jason.cheatham@wright.edu)
 
 ## Time and room
 
-The class meets Tuesdays and Thursdays from 6:30-7:50pm in Russ 339.
+The class meets Mondays and Wednesdays from 6:30-7:50pm in Russ 339.
 
 Office hours are after class &mdash; Tuesdays and Thursdays from 7:50-8:50pm in
 Russ 339.
