@@ -2,11 +2,11 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [Data organization](#data-organization)
-- [Tracked files](#tracked-files)
-- [Visualizing commits](#visualizing-commits)
-- [Common git commands](#common-git-commands)
-- [git + gh](#git--gh)
+* [Data organization](#data-organization)
+* [An example](#an-example)
+* [Visualizing commits](#visualizing-commits)
+* [Common git commands](#common-git-commands)
+* [git + gh](#git--gh)
 
 <!-- vim-markdown-toc -->
 
