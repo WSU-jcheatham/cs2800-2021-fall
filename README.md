@@ -14,14 +14,14 @@ completed an undergraduate programming course such as CS 1160.
 
 <!-- vim-markdown-toc GFM -->
 
-* [Instructor](#instructor)
-* [Time and room](#time-and-room)
-* [Masks](#masks)
-* [Textbook](#textbook)
-* [Required software](#required-software)
-* [Grading](#grading)
-* [Tentative schedule](#tentative-schedule)
-* [Academic integrity](#academic-integrity)
+- [Instructor](#instructor)
+- [Time and room](#time-and-room)
+- [Masks](#masks)
+- [Textbook](#textbook)
+- [Required software](#required-software)
+- [Grading](#grading)
+- [Tentative schedule](#tentative-schedule)
+- [Academic integrity](#academic-integrity)
 
 <!-- vim-markdown-toc -->
 
@@ -101,7 +101,7 @@ assignments.
 | **Week** | **Topic**                                                                                 |
 | :------- | :---------------------------------------------------------------------------------------- |
 | 1        | Introduction ([Tues](./notes/20210824_Tuesday.md), [Thurs](./notes/20210826_Thursday.md)) |
-| 2        | HTML ([Tues](./notes/20210831_Tuesday.md)                                                 |
+| 2        | HTML ([Tues](./notes/20210831_Tuesday.md))                                                |
 | 3        | CSS                                                                                       |
 | 4        | Accessibility                                                                             |
 | 5        | Intro to JavaScript                                                                       |
