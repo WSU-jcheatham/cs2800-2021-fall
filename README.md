@@ -96,26 +96,26 @@ assignments.
 | Midterm           | 1          | 32                   |
 | Final             | 1          | 32                   |
 
-## Tentative schedule
+## Schedule
 
-| **Week** | **Topic**                                                                                 |
-| :------- | :---------------------------------------------------------------------------------------- |
-| 1        | Introduction ([Tues](./notes/20210824_Tuesday.md), [Thurs](./notes/20210826_Thursday.md)) |
-| 2        | HTML ([Tues](./notes/20210831_Tuesday.md))                                                |
-| 3        | CSS                                                                                       |
-| 4        | Accessibility                                                                             |
-| 5        | Intro to JavaScript                                                                       |
-| 6        | Functions, classes, standard library                                                      |
-| 7        | Review; midterm exam                                                                      |
-| 8        | DOM                                                                                       |
-| 9        | Async and requests                                                                        |
-| 10       | Events and forms                                                                          |
-| 11       | Intro to React                                                                            |
-| 12       | React events, forms                                                                       |
-| 13       | React state management; unit testing                                                      |
-| 14       | Unit testing                                                                              |
-| 15       | Review                                                                                    |
-| 16       | Final exam                                                                                |
+| **Week** | **Topic**                            | **Notes **                                                                   |
+| :------- | :----------------------------------- | ---------------------------------------------------------------------------- |
+| 1        | Introduction                         | ([Tues](./notes/20210824_Tuesday.md), [Thurs](./notes/20210826_Thursday.md)) |
+| 2        | HTML                                 | ([Tues](./notes/20210831_Tuesday.md))                                        |
+| 3        | CSS                                  |                                                                              |
+| 4        | Accessibility                        |                                                                              |
+| 5        | Intro to JavaScript                  |                                                                              |
+| 6        | Functions, classes, standard library |                                                                              |
+| 7        | Review; midterm exam                 |                                                                              |
+| 8        | DOM                                  |                                                                              |
+| 9        | Async and requests                   |                                                                              |
+| 10       | Events and forms                     |                                                                              |
+| 11       | Intro to React                       |                                                                              |
+| 12       | React events, forms                  |                                                                              |
+| 13       | React state management; unit testing |                                                                              |
+| 14       | Unit testing                         |                                                                              |
+| 15       | Review                               |                                                                              |
+| 16       | Final exam                           |                                                                              |
 
 Assignments will typically be made on Thursdays and will be due at 11:59pm on
 the following Tuesday.
