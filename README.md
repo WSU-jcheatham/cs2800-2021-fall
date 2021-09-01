@@ -79,7 +79,7 @@ Students will need
 - A git client (the [git command line tool](https://git-scm.com/downloads),
   [GitHub Desktop](https://desktop.github.com), etc.)
 
-See the [GitHub doc](./github.md) for more information about using GitHub for
+See the [git doc](./git.md) for more information about using GitHub for
 assignments.
 
 ## Grading
