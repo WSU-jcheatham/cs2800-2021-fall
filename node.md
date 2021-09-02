@@ -4,6 +4,8 @@ Node is a JavaScript interpreter for the desktop (as opposed to browsers). Npm
 is the Node Package Manager -- it lets you install libraries (packages) for
 Node programs to use.
 
+When you install Node, you also get npm. Corollary: to get npm, install Node.
+
 ## Ubuntu (WSL or standard Linux)
 
 1. Open an Ubuntu prompt
