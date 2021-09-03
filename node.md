@@ -13,6 +13,18 @@ When you install Node, you also get npm. Corollary: to get npm, install Node.
 3. Run `sudo apt-get install -y nodejs`
 4. Run `npm -v` to verify that Node and npm are installed
 
+If you are using Ubuntu in Windows and your session always opens as the root
+user:
+
+1. In Ubuntu, run `adduser someusername` (like `adduser jason`)
+2. Fill out what it asks for
+3. Run `usermod -G admin someusername`
+4. In a Windows command prompt (not Ubuntu), run `ubuntu config --default-user
+   someusername`
+
+The next time you start Ubuntu, it should come up logged in as `someusername`.
+At that point, install Node as described above.
+
 ## Windows
 
 1. Download the Windows installer from https://nodejs.org/en/download/
