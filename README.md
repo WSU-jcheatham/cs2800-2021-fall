@@ -104,7 +104,7 @@ npm.
 | **Week** | **Topic**                            | **Notes**                                                                  |
 | :------- | :----------------------------------- | :------------------------------------------------------------------------- |
 | 1        | Introduction                         | [Tues](./notes/20210824_Tuesday.md), [Thurs](./notes/20210826_Thursday.md) |
-| 2        | HTML                                 | [Tues](./notes/20210831_Tuesday.md)                                        |
+| 2        | HTML                                 | [Tues](./notes/20210831_Tuesday.md), [Thurs](./notes/20210902_Thursday.md)                                        |
 | 3        | CSS                                  |                                                                            |
 | 4        | Accessibility                        |                                                                            |
 | 5        | Intro to JavaScript                  |                                                                            |
