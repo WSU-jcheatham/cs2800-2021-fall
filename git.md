@@ -6,7 +6,8 @@
 * [An example](#an-example)
 * [Visualizing commits](#visualizing-commits)
 * [Common git commands](#common-git-commands)
-* [git + gh](#git--gh)
+* [Authenticating with GitHub](#authenticating-with-github)
+* [Merging assignment updates](#merging-assignment-updates)
 
 <!-- vim-markdown-toc -->
 
