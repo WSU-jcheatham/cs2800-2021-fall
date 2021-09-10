@@ -222,7 +222,7 @@ of the `main` commit (1cc52e8) and the previous `work` commit (871a072).
   been committed. If you have updated but uncommitted files in your repo and run
   `git push`, git will not push the uncommitted changes.
 
-## git + gh
+## Authenticating with GitHub
 
 To use the standard git [command line client](https://git-scm.com) with GitHub,
 you need to authenticate with GitHub. One way to do this is to generate a
@@ -238,3 +238,25 @@ else.
 
 After the login is complete, you will be able to clone repositories from GitHub
 and push changes to it.
+
+## Merging assignment updates
+
+Sometimes an assignment will need to be updated after you’ve accepted it.
+Updates will be pushed to the main branch of your assignment repository on
+GitHub, and you’ll need to merge them into your work branch for them the be part
+of your solution.
+
+If you’re using the command line tools:
+
+1. cd into your project directory
+2. Run `git fetch origin main`
+3. Check out your work branch (if you’re not already in it)
+3. Run `git merge main`
+
+If you’re using GitHub Desktop:
+
+1. Checkout the main branch
+2. Sync with the remote repository
+3. Check out your work branch
+4. [Merge](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch#merging-another-branch-into-your-project-branch)
+the main branch into your work branch
