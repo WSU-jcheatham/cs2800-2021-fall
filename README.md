@@ -106,7 +106,7 @@ npm.
 | 1        | Introduction                         | [Tues](./notes/20210824_Tuesday.md), [Thurs](./notes/20210826_Thursday.md) |
 | 2        | HTML                                 | [Tues](./notes/20210831_Tuesday.md), [Thurs](./notes/20210902_Thursday.md) |
 | 3        | CSS                                  | [Tues](./notes/20210907_Tuesday.md), [Thurs](./notes/20210909_Thursday.md) |
-| 4        | Accessibility                        |                                                                            |
+| 4        | Accessibility, review                |                                                                            |
 | 5        | Intro to JavaScript                  |                                                                            |
 | 6        | Functions, classes, standard library |                                                                            |
 | 7        | Review; midterm exam                 |                                                                            |
