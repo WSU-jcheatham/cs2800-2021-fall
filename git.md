@@ -265,3 +265,8 @@ If you’re using GitHub Desktop:
 3. Check out your work branch
 4. [Merge](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch#merging-another-branch-into-your-project-branch)
 the main branch into your work branch
+
+Merging `main` into your working branch creates a new commit, just as if you’d
+made a normal code update. You can continue making commits to your branch as
+normal. As always, be sure to push your branch to GitHub when you’re finished
+making updates!
