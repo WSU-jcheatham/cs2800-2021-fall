@@ -2,12 +2,12 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Data organization](#data-organization)
-* [An example](#an-example)
-* [Visualizing commits](#visualizing-commits)
-* [Common git commands](#common-git-commands)
-* [Authenticating with GitHub](#authenticating-with-github)
-* [Merging assignment updates](#merging-assignment-updates)
+- [Data organization](#data-organization)
+- [An example](#an-example)
+- [Visualizing commits](#visualizing-commits)
+- [Common git commands](#common-git-commands)
+- [Authenticating with GitHub](#authenticating-with-github)
+- [Merging assignment updates](#merging-assignment-updates)
 
 <!-- vim-markdown-toc -->
 
@@ -173,10 +173,10 @@ as a text-mode graph:
 
 In the example above, we can see that the repository has 3 commits. The first
 commit has the message “Initial commit” (this is a convention; the message could
-be anything). Branch off of that commit are two others &mdash; one is the
-`main` branch, and the other is the `work` branch. The `work` branch is also
-labelled as `HEAD`, meaning that it’s the currently checked out branch. If we
-run `git merge main` and then show the log again, we see:
+be anything). Branch off of that commit are two others &mdash; one is the `main`
+branch, and the other is the `work` branch. The `work` branch is also labelled
+as `HEAD`, meaning that it’s the currently checked out branch. If we run
+`git merge main` and then show the log again, we see:
 
 ```
 ❯ git log --oneline --graph --decorate --all
@@ -252,11 +252,27 @@ If you’re using the command line tools:
 1. cd into your project directory
 2. Run `git fetch`
 3. Check out your work branch (if you’re not already in it)
-3. Run `git merge origin/main`
+4. Run `git merge origin/main`
 
 <p align="middle">
   <img src="resources/merge.gif" alt="Movie showing merge process">
 </p>
+
+In the short movie above:
+
+1. I run `git status`, showing that I’m in my work branch and that I don’t have
+   any uncommitted changes.,
+2. I run `git fetch`, which pulls down changes from GitHub into my local
+   repository.
+3. I show the git commit history. You can see that there's a fork in the history
+   &mdash; my solution branch is going one way, and origin/main (the `main`
+   branch on GitHub) is going another.
+4. I run `git merge origin/main`, which will merge the changes I just downloaded
+   from GitHub into my branch. Git will bring up an editor for me to leave a
+   commit message. I save the message, and the merge is complete.
+5. I show the git commit history. Note that my `solution` branch now points to a
+   new commit that has the original `solution` commit and `origin/main` as
+   inputs. This is the merge commit.
 
 If you’re using GitHub Desktop:
 
@@ -264,7 +280,7 @@ If you’re using GitHub Desktop:
 2. Sync with the remote repository
 3. Check out your work branch
 4. [Merge](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch#merging-another-branch-into-your-project-branch)
-the main branch into your work branch
+   the main branch into your work branch
 
 Merging `main` into your working branch creates a new commit, just as if you’d
 made a normal code update. You can continue making commits to your branch as
