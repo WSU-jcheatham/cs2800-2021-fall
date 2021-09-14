@@ -265,7 +265,7 @@ In the short movie above:
 2. I run `git fetch`, which pulls down changes from GitHub into my local
    repository.
 3. I show the git commit history. You can see that there's a fork in the history
-   &mdash; my solution branch is going one way, and origin/main (the `main`
+   &mdash; my solution branch is going one way, and `origin/main` (the `main`
    branch on GitHub) is going another.
 4. I run `git merge origin/main`, which will merge the changes I just downloaded
    from GitHub into my branch. Git will bring up an editor for me to leave a
