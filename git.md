@@ -250,7 +250,7 @@ of your solution.
 If you’re using the command line tools:
 
 1. cd into your project directory
-2. Run `git fetch origin main`
+2. Run `git fetch`
 3. Check out your work branch (if you’re not already in it)
 3. Run `git merge origin/main`
 
