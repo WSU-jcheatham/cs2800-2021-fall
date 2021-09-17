@@ -2,12 +2,13 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [Data organization](#data-organization)
-- [An example](#an-example)
-- [Visualizing commits](#visualizing-commits)
-- [Common git commands](#common-git-commands)
-- [Authenticating with GitHub](#authenticating-with-github)
-- [Merging assignment updates](#merging-assignment-updates)
+* [Data organization](#data-organization)
+* [An example](#an-example)
+* [Visualizing commits](#visualizing-commits)
+* [Common git commands](#common-git-commands)
+* [Authenticating with GitHub](#authenticating-with-github)
+* [Cloning an assignment repository](#cloning-an-assignment-repository)
+* [Merging assignment updates](#merging-assignment-updates)
 
 <!-- vim-markdown-toc -->
 
@@ -239,6 +240,23 @@ else.
 
 After the login is complete, you will be able to clone repositories from GitHub
 and push changes to it.
+
+## Cloning an assignment repository
+
+In the video below:
+
+1. `git clone https://github.com/WSU-jcheatham/cs2800-playground` downloads the
+   repo from GitHub into a local `cs2800-playground` directory on your computer.
+2. `cd cs2800-playground` changes into the repository directory.
+3. `git checkout html-games` checks out the `html-games` branch in the
+   repository. In this case, the branch _already existed_ in the repository. For
+   an assignment, you‘d probably want to _create_ a branch rather than checking
+   out an existing one. You can do that with `git checkout -b your-new-branch`.
+4. `npm install` installs the web server used by the assignment.
+5. `npm start` starts the web server. Leave this running, and open a browser to
+   the address shown by the command.
+
+<img src="resources/clone_repo.gif"/>
 
 ## Merging assignment updates
 
