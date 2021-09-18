@@ -8,12 +8,13 @@ When you install Node, you also get npm. Corollary: to get npm, install Node.
 
 <!-- vim-markdown-toc GFM -->
 
-- [Installing](#installing)
-  - [Ubuntu (WSL or standard Linux)](#ubuntu-wsl-or-standard-linux)
-  - [Windows](#windows)
-  - [Mac](#mac)
-    - [Homebrew](#homebrew)
-    - [Installer](#installer)
+* [Installing](#installing)
+  * [Ubuntu (WSL or standard Linux)](#ubuntu-wsl-or-standard-linux)
+  * [Windows (not WSL/Ubuntu)](#windows-not-wslubuntu)
+  * [Mac](#mac)
+    * [Homebrew](#homebrew)
+    * [Installer](#installer)
+* [Troubleshooting](#troubleshooting)
 
 <!-- vim-markdown-toc -->
 
