@@ -95,3 +95,18 @@ If you _want_ to use WSL, install Node as described in the
 [Ubuntu section](#ubuntu-wsl-or-standard-linux) above. However, you do not have
 to use WSL. Using a normal Windows command prompt or PowerShell prompt is
 completely fine.
+
+<hr>
+
+<p align="middle">
+  <img src="resources/npm-address-in-use.png">
+</p>
+
+An error like the one above (something about “address already in use”) means
+that you have another instance of the assignment web server running somehwere.
+This might be in another window you have open, or it might be one that wasn’t
+terminated when a window was closed, so it’s still running in the background.
+
+If you’re using Ubuntu, open an Unbuntu or terminal window and run `killall
+node`. This will terminate any running node processes. Then try starting the
+test server again.
