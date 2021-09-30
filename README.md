@@ -108,7 +108,7 @@ npm.
 | 3        | CSS                                  | [Tues](./notes/20210907_Tuesday.md), [Thurs](./notes/20210909_Thursday.md) |
 | 4        | Accessibility, review                | [Tues](./notes/20210914_Tuesday.md), [Thurs](./notes/20210916_Thursday.md) |
 | 5        | Intro to JavaScript                  | [Tues](./notes/20210921_Tuesday.md), [Thurs](./notes/20210923_Thursday.md) |
-| 6        | Functions, classes, standard library |                                                                            |
+| 6        | Functions, classes, standard library | [Tues](./notes/20210928_Tuesday.md)                                        |
 | 7        | Review; midterm exam                 |                                                                            |
 | 8        | DOM                                  |                                                                            |
 | 9        | Async and requests                   |                                                                            |
