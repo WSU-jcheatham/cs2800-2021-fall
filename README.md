@@ -109,7 +109,7 @@ npm.
 | 4        | Accessibility, review                | [Tues](./notes/20210914_Tuesday.md), [Thurs](./notes/20210916_Thursday.md) |
 | 5        | Intro to JavaScript                  | [Tues](./notes/20210921_Tuesday.md), [Thurs](./notes/20210923_Thursday.md) |
 | 6        | Functions, classes, standard library | [Tues](./notes/20210928_Tuesday.md), [Thurs](./notes/20210930_Thursday.md) |
-| 7        | Review; midterm exam                 |                                                                            |
+| 7        | Review; midterm exam                 | [Tues](./notes/20211005_Tuesday.md)                                                                           |
 | 8        | DOM                                  |                                                                            |
 | 9        | Async and requests                   |                                                                            |
 | 10       | Events and forms                     |                                                                            |
