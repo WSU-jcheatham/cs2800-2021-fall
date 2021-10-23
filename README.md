@@ -111,7 +111,7 @@ npm.
 | 6        | Functions, classes, standard library | [Tues](./notes/20210928_Tuesday.md), [Thurs](./notes/20210930_Thursday.md) |
 | 7        | Review; midterm exam                 | [Tues](./notes/20211005_Tuesday.md)                                        |
 | 8        | DOM                                  | [Tues](./notes/20211012_Tuesday.md), [Thurs](./notes/20211014_Thursday.md) |
-| 9        | Async and requests                   | [Tues](./notes/20211019_Tuesday.md)                                        |
+| 9        | Async and requests                   | [Tues](./notes/20211019_Tuesday.md), [Thurs](./notes/20211021_Thursday.md) |
 | 10       | Events and forms                     |                                                                            |
 | 11       | Intro to React                       |                                                                            |
 | 12       | React events, forms                  |                                                                            |
