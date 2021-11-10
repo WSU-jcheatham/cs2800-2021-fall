@@ -114,7 +114,7 @@ npm.
 | 9        | Async and requests                   | [Tues](./notes/20211019_Tuesday.md), [Thurs](./notes/20211021_Thursday.md) |
 | 10       | Events and forms                     | [Tues](./notes/20211026_Tuesday.md), [Thurs](./notes/20211028_Thursday.md) |
 | 11       | Intro to React                       | [Tues](./notes/20211102_Tuesday.md), [Thurs](./notes/20211104_Thursday.md) |
-| 12       | React events, forms                  |                                                                            |
+| 12       | React events, forms                  | [Tues](./notes/20211109_Tuesday.md)                                        |
 | 13       | React state management; unit testing |                                                                            |
 | 14       | Unit testing                         |                                                                            |
 | 15       | Review                               |                                                                            |
