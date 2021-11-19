@@ -115,7 +115,7 @@ npm.
 | 10       | Events and forms                     | [Tues](./notes/20211026_Tuesday.md), [Thurs](./notes/20211028_Thursday.md) |
 | 11       | Intro to React                       | [Tues](./notes/20211102_Tuesday.md), [Thurs](./notes/20211104_Thursday.md) |
 | 12       | React events, forms                  | [Tues](./notes/20211109_Tuesday.md)                                        |
-| 13       | React state management; unit testing | [Tues](./notes/20211116_Tuesday.md)                                        |
+| 13       | React state management; unit testing | [Tues](./notes/20211116_Tuesday.md), [Thurs](./notes/20211118_Thursday.md) |
 | 14       | Unit testing                         |                                                                            |
 | 15       | Review                               |                                                                            |
 | 16       | Final exam                           |                                                                            |
