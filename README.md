@@ -117,7 +117,7 @@ npm.
 | 12       | React events, forms                  | [Tues](./notes/20211109_Tuesday.md)                                        |
 | 13       | React state management; unit testing | [Tues](./notes/20211116_Tuesday.md), [Thurs](./notes/20211118_Thursday.md) |
 | 14       | Unit testing                         | [Tues](./notes/20211123_Tuesday.md)                                        |
-| 15       | Review                               |                                                                            |
+| 15       | Review                               | [Thurs](./notes/20211202_Thursday.md)                                      |
 | 16       | Final exam                           |                                                                            |
 
 Assignments will typically be made on Thursdays and will be due at 11:59pm on
